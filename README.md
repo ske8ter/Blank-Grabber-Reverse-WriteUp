@@ -47,7 +47,7 @@ As in the previous section, I'll use pylingual to get through the `.pyc` file. A
 
 Replace the `"...."` with the payload from line 12 (shown below), then run the code. Again there's no output, but a file named `source.py` is created with the next layer of obfuscation.
 
-![Payload from line 12](images/Pasted%20image%2020261028174047.png)
+the name of payload in sources => ![Payload from line 12](images/Pasted%20image%2020261028174047.png)
 
 In the created file we see a lot of payloads and some obfuscated code at the end, so let's inspect it.
 
